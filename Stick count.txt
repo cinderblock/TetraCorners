@@ -1,0 +1,3 @@
+Mini - 4 * (3 + 2 + 8) = 52 ... * 6 = 310 short sticks
+Small - 3 * 3 + 2 * 5 + 4 = 23 ... * 6 = 138 medium sticks
+Medium - 7 ... * 6 = 42 long sticks
